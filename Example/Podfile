@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Hi5SDK_Example' do
+  pod 'Hi5SDK', :path => '../'
+
+  target 'Hi5SDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

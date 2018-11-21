@@ -1,0 +1,22 @@
+{
+  "name": "Hi5SDK",
+  "version": "0.1.0",
+  "summary": "A short description of Hi5SDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sunyi0027011891/Hi5SDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sunyi0027011891": "0027011891@iwhalecloud.com"
+  },
+  "source": {
+    "git": "https://github.com/sunyi0027011891/Hi5SDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Hi5SDK/Classes/**/*"
+}

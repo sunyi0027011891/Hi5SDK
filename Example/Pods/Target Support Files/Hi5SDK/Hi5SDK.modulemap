@@ -1,0 +1,6 @@
+framework module Hi5SDK {
+  umbrella header "Hi5SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
